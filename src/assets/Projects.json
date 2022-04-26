@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "todo app",
+    "description": " allows to manage a list of tasks to do. It performs adding, updating, deletingtask. ",
+    "image": "https://media.istockphoto.com/photos/person-ticking-checkboxes-with-marker-pen-on-checklist-or-todolist-picture-id1303880525?b=1&k=20&m=1303880525&s=170667a&w=0&h=huSiL27b2VxXI6YsI3hcCxZAUcYlOKRgcFOV7FaijTI=",
+    "tech": ["html", "css", "javascript", "react", "jsonServer", ""],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  },
+  {
+    "id": "9",
+    "title": "nexflix clone",
+    "description": "gives you access to unlimited TV shows and movies for a low monthly price.",
+    "image": "https://media.istockphoto.com/photos/netflix-picture-id654056106?k=20&m=654056106&s=612x612&w=0&h=NmBMlSxkYRvgVtCUzxEZQP_4YW89ruIpydwiKVcRa_k=",
+    "tech": ["react", "router", "contexapi", "json"],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  },
+  {
+    "id": "8",
+    "title": "Weather app",
+    "description": "weather app also provides atmospheric pressure, weather conditions ",
+    "image": "https://media.istockphoto.com/photos/weather-forecast-on-a-digital-display-picture-id477902875?k=20&m=477902875&s=612x612&w=0&h=7E0zaCP5r0jmz-cEwpr2P_MEHWlx23QxmY5m6o7wShk=",
+    "tech": ["api", "javascript", "react", "taiwand"],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  },
+  {
+    "id": "2",
+    "title": "e-commerce website",
+    "description": "weather app also provides atmospheric pressure, weather conditions  ",
+    "image": "https://media.istockphoto.com/photos/online-shop-concept-on-tablet-and-smartphone-screen-picture-id942575632?k=20&m=942575632&s=612x612&w=0&h=fX5bI-Up8R3e6J_arl486MZaZDYB50xfqeP2iDL7Jjg=",
+    "tech": ["html", "css", "javascript", "react"],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  },
+  {
+    "id": "7",
+    "title": "chat application",
+    "description": "weather app also provides atmospheric pressure, weather conditions, and direction  ",
+    "image": "https://media.istockphoto.com/photos/customer-service-and-support-live-chat-with-chatbot-and-automatic-or-picture-id1158779006?b=1&k=20&m=1158779006&s=170667a&w=0&h=QiE4kREKVq58s3TqQdaKm63ZpOk47vSivZxWGHNfeWE=",
+    "tech": ["html", "css", "javascript", "react"],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  },
+  {
+    "id": "3",
+    "title": "chat application",
+    "description": "weather app also provides atmospheric pressure, weather conditions, and direction ",
+    "image": "https://media.istockphoto.com/photos/customer-service-and-support-live-chat-with-chatbot-and-automatic-or-picture-id1158779006?b=1&k=20&m=1158779006&s=170667a&w=0&h=QiE4kREKVq58s3TqQdaKm63ZpOk47vSivZxWGHNfeWE=",
+
+    "tech": ["html", "css", "javascript", "react"],
+    "link": "https://github.com/shakuurally",
+    "live": "https://abdishakuuralli.netlify.app/"
+  }
+]
